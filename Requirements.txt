@@ -1,0 +1,15 @@
+# Core deep learning
+torch>=2.0.0
+numpy
+tqdm
+
+# Dataset & encoding
+regex
+requests
+
+# Optional but useful
+jupyter
+matplotlib
+
+# If using Git LFS for model files
+git-lfs
